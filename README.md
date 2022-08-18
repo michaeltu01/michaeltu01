@@ -1,3 +1,5 @@
+[![Spotify](https://novatorem-michaeltu01.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mikey522)
+
 - 👋 Hi, I’m @michaeltu01
 - 👀 I’m interested in trying different coding projects to build up my coding experience!
 - 🌱 I’m currently learning Python!
