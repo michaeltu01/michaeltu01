@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @michaeltu01
 - 👀 I’m interested in trying different coding projects to build up my coding experience!
-- 🌱 I’m currently learning Python, Rust, Next.js!
+- 🌱 I’m currently learning Python, Rust, React!
 - 💞️ I’m looking to collaborate on any coding projects!
 - 📫 How to reach me michaeltu705@gmail.com
 
